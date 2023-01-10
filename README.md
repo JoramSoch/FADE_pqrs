@@ -29,6 +29,6 @@ For re-running analyses reported in the paper, you need to perform the following
 4. Open MATLAB, set your current directory to this sub-folder and (if necessary) edit the pqrs directory [in line 13](https://github.com/JoramSoch/FADE_pqrs/blob/main/Figures_res_all.m#L13) of `Figures_res_all.m`.
 5. Finally, open `analyses_FADE_pqrs.m` and run this script.
 
-* When running this, the Figures 1B, 5, 6, 7, 8 and 9, as they appear in the paper, should be displayed.
+* Upon running, the Figures 1B, 5, 6, 7, 8 and 9, as they appear in the paper, should be displayed.
 * Moreover, the summary statistics shown on Figure 10 should also be printed to the command window.
 * For creating Figures 7 and 8, you need to download the MATLAB function `bonf_holm.m` from [MATLAB Central](https://www.mathworks.com/matlabcentral/fileexchange/28303-bonferroni-holm-correction-for-multiple-comparisons).
