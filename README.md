@@ -2,7 +2,7 @@
 
 **Computational modelling of subsequent memory reports**
 
-This code belongs to the preprint "A novel approach for modelling subsequent memory reports by separating decidedness, recognition and confidence" by Soch et al. (2022), submitted to *Journal of Experimental Psychology: Learning, Memory, and Cognition* and publicly available from *bioRxiv*. For instructions how to process these data, see below.
+This code belongs to the preprint "A novel approach for modelling subsequent memory reports by separating decidedness, recognition and confidence" by Soch et al. (2022), publicly available from *psyArXiv* and under review at the *Journal of Experimental Psychology: Learning, Memory, and Cognition*. For instructions how to process these data, see below.
 
 - Preprint: https://psyarxiv.com/u5t82/
 - Data: https://github.com/JoramSoch/FADE_pqrs/blob/main/data/logfiles_FADE.mat
